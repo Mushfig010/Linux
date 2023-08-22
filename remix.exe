@@ -1,2 +1,6 @@
-üq!iioiosmksdskdskdjksdjskdj
-remix edildi
+#!/bin/bash
+  
+
+  read -p NEW FEATURE: 
+  
+  echo "NEW FEATURE update"
