@@ -1,2 +1,10 @@
-üq!iioiosmksdskdskdjksdjskdj
-remix edildi
+#!/bin/bash 
+  
+
+   read -p STANDART INPUT 
+
+
+   echo "STANDART INPUT"
+
+
+
