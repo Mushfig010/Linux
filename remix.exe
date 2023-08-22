@@ -1,6 +1,11 @@
-#!/bin/bash
-  
 
+#!/bin/bash
   read -p NEW FEATURE: 
-  
   echo "NEW FEATURE update"
+
+
+
+#!/bin/bash 
+   read -p STANDART INPUT 
+   echo "STANDART INPUT"
+
